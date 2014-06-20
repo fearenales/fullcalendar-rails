@@ -4,7 +4,7 @@
  * (c) 2013 Adam Shaw
  */
 
-//= require moment.min
+//= require moment
 
 (function(factory) {
 	if (typeof define === 'function' && define.amd) {
